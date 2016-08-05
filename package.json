@@ -1,5 +1,5 @@
 {
-  "name": "textmate-active4d-syntax",
+  "name": "textmate-all-hallow's-eve-syntax",
   "theme": "syntax",
   "version": "0.0.0",
   "description": "Textmate all-hallow's-eve theme for Atom",
@@ -9,7 +9,7 @@
     "textmate",
     "all-hallow's-eve"
   ],
-  "repository": "https://github.com/phthhieu/textmate-all-hallow's-eve-syntax",
+  "repository": "https://github.com/phthhieu/textmate-all-hallow-s-eve-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
